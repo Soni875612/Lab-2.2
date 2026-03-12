@@ -53,37 +53,3 @@ Larger engines and higher fuel consumption lead to higher CO2 emissions
 The Linear Regression model achieved 87% accuracy using just 2 features
 
 
-How to Run
-bash# 1. Place the dataset file in the same folder as the notebook
-# CO2 Emissions.csv
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# 3. Run Jupyter Notebook
-jupyter notebook Lab2_2.ipynb
-```
-
----
-
-## Tech Stack
-| Library | Usage |
-|---------|-------|
-| `pandas` | Data loading and manipulation |
-| `numpy` | Numerical operations |
-| `matplotlib` | Plotting |
-| `seaborn` | Advanced visualizations (heatmap, pairplot) |
-| `scikit-learn` | Train-test split, Linear Regression, evaluation metrics |
-
----
-
-## File Structure
-```
-Lab2_2/
-├── Lab2_2.ipynb          # Main notebook
-├── CO2 Emissions.csv     # Dataset
-└── README.md             # This file
-
-Dataset Source
-Canada CO2 Emissions Dataset — vehicle fuel consumption and CO2 emissions data.
-Available on Kaggle.
