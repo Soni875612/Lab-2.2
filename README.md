@@ -1,4 +1,4 @@
-Lab 2.2 — CO2 Emissions Linear Regression
+## Lab 2.2 — CO2 Emissions Linear Regression
 Objective
 This notebook uses Canada's vehicle CO2 emissions data to train a Linear Regression model that predicts CO2 emissions from engine size and fuel consumption.
 
